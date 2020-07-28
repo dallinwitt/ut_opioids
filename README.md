@@ -2,7 +2,7 @@
 ## Data Analysis and Visualization
 
 #### Motivation
-Illicit opioid usage has spiked across the country. Much of this usage stems from what began as prescritpion usage. The [state of Utah](https://opendata.utah.gov/Public-Safety/Utah-Opioid-Prescription-Data-by-City-Zip-County-2/ivcs-mb6d) provides data on all opioid prescriptions written by healthcare providers across the state. The most recent data available are from 2015-2016. The [county-level](https://en.wikipedia.org/wiki/List_of_counties_in_Utah) and [municipality-level](https://en.wikipedia.org/wiki/List_of_municipalities_in_Utah) demographic data were scraped from Wikipedia. The geosjson file for the counties of Utah was obtaine dfrom the [Utah state mapserve](https://mapserv.utah.gov/arcgis/rest/services/PLSS/MapServer/layers).
+Illicit opioid usage has spiked across the country. Much of this usage stems from what began as prescritpion usage. The [state of Utah](https://opendata.utah.gov/Public-Safety/Utah-Opioid-Prescription-Data-by-City-Zip-County-2/ivcs-mb6d) provides data on all opioid prescriptions written by healthcare providers across the state. The most recent data available are from 2015-2016. The [county-level](https://en.wikipedia.org/wiki/List_of_counties_in_Utah) and [municipality-level](https://en.wikipedia.org/wiki/List_of_municipalities_in_Utah) demographic data were scraped from Wikipedia. The geosjson file for the counties of Utah was obtained from the [Utah state mapserve](https://mapserv.utah.gov/arcgis/rest/services/PLSS/MapServer/layers).
 
 I had two goals with this project:
 1. Ananlyze the cities which had the most outsized prescription rates of opioids, and determine if any demographic factors influenced this rate.
